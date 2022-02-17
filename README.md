@@ -40,6 +40,24 @@
 > - [**数据结构和算法动态可视化**](https://visualgo.net/zh)
 
 ---
+# **外包私活赚钱网站**
+
+---
+
+> - [**码市**](https://www.codemart.com/)
+> - [**开源众包**](https://zb.oschina.net/)
+> - [**猪八戒**](https://baoding.zbj.com/)
+> - [**程序员客栈**](https://www.proginn.com/)
+> - [**英选**](https://linktion.cn/)
+> - [**开发邦**](https://www.kaifabang.com/)
+> - [**猿急送**](https://www.yuanjisong.com/)
+> - [**人人开发**](http://rrkf.com/)
+> - [**freelancer**](https://www.freelance.com/)
+> - [**stackoverflow**](https://stackoverflow.com/)
+> - **后续持续更新**
+
+---
+
 # **常用编程软件和工具**
 
 ---
@@ -65,7 +83,9 @@
 接下来我们一项一项详细盘点。
 
 ---
+
 ## 常用在线工具集
+
 ---
 
 > [!NOTE]
