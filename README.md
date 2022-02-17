@@ -8,13 +8,7 @@
 ---
 # **这个网站的特点是什么**
 ---
-> 呃...毋庸置疑当然这个网站最大的特点就是干净卫生
-谁又会拒绝一个简单且功能强大的网站呢，更何况是自学时需要用的网站
-废话少说
-
----
-# **这个网站适宜哪种人群？**
-> 本站当然是汇集了计算机专业所必学的东西，因为作者本身也是计算机专业的学生，作者本身也极力推荐各位小伙伴们可以收藏，不敢说你看完这里面的东西可以成为计算机大牛，但一定可以在你的同龄人之间出类拔萃，如果你想月薪过万，当然程序员是极力推荐的，--->面向薪资编程。
+> 呃...毋庸置疑当然这个网站最大的特点就是干净卫生，谁又会拒绝一个简单且功能强大的网站呢，更何况是自学时需要用的网站，当然最要的是方便了我，需要什么东西的时候可以立马找到
 
 
 ---
@@ -23,11 +17,10 @@
 ---
 
 > [!TIP]
->  本站取名 **Repository**，意为「编程自学之路中的知识库」，是自学编程以来所用资源和分享内容的大聚合。
->  
->  旨在为编程自学者提供一系列：
+> 本站取名 **Repository**，意为「编程自学之路中的知识库」，是自学编程以来所用资源和分享内容的大聚合。
+>
+> 旨在为编程自学者提供一系列：
 >  - **清晰的编程自学路线**
->  - **各编程岗位方向的知识点梳理**
 >  - **靠谱的资源**
 >  - **高效的工具**
 >  - **务实的技术文章**
@@ -35,83 +28,20 @@
 > 方便自己也方便他人。网站内容会保持**持续更新**，欢迎收藏品鉴！
 
 ---
-# **本站内容地图**
----
 
-![](https://cdn.jsdelivr.net/gh/justacoder99/r2coding@master/img/contentmap.3sdmma4od740.png)
+# **我常用网站合集**
 
 ---
-# **编程自学路线+知识大梳理**
-
----
-> [!NOTE]
->  本站目前整理收录了6个大方向（岗位）的学习路线+知识点大梳理，分别为：
->  
->  - **Java后端开发**
->  - **前端开发**
->  - **C/C++后台开发**
->  - **大数据开发**
->  - **嵌入式开发**
->  - **网络安全方向**
->  
-
-后续本站也会持续更新和增加更多方向岗位的学习路线...
-
----
-
-<!-- tabs:start -->
-
-### **Java后端开发**
-
-```pdf
-https://static.r2coding.com/r2_static/pdf/jawa.pdf
-```
-
-> [!TIP]
->  详情链接 **→** [《Java后端开发学习路线》](https://luxian.yupi.icu/#/roadmap/Java%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF)
-
-### **前端开发**
-
-```pdf
-https://static.r2coding.com/r2_static/pdf/front.pdf
-```
-
-> [!TIP]
->  详情链接 **→** [《前端开发学习路线+知识点大梳理》](https://mp.weixin.qq.com/s/_8lvpPDArM_Z-MI9iul1AA)
-
-### **大数据开发**
-
-```pdf
-https://static.r2coding.com/r2_static/pdf/bigdata.pdf
-```
-
-> [!TIP]
->  详情链接 **→** [《大数据开发学习路线+知识点大梳理》](https://mp.weixin.qq.com/s/dm2Qm4zZhHxEvcFgNS_mrA)
-
-### **嵌入式开发**
-
-```pdf
-https://static.r2coding.com/r2_static/pdf/embed.pdf
-```
-
-> [!TIP]
->  详情链接 **→** [《嵌入式开发学习路线+知识点大梳理》](https://mp.weixin.qq.com/s/AJqbhz3InV3G8TVjTHn6dg)
-
-### **C/C++后台开发**
-
-```pdf
-https://static.r2coding.com/r2_static/pdf/c.pdf
-```
-
-### **网络安全方向**
-
-> [!TIP]
->  详情链接 **→** [《网络安全方向学习路线+知识点大梳理》](https://mp.weixin.qq.com/s/pPs5Gm9I3a6-nMZQ42kaWg)
-
-<!-- tabs:end -->
+> - [**JAVA工程师成神之路**](https://hollischuang.github.io/toBeTopJavaer/#/menu)
+> - [**鱼皮编程学习路线**](https://luxian.yupi.icu/#/)
+> - [**`HelloGitHub` 开源项目**](https://hellogithub.com/)
+> - [**`Liy`的个人书签**](https://link.liypoi.top/)
+> - [**编程导航**](https://www.code-nav.cn/)
+> - [**数据结构和算法动态可视化**](https://visualgo.net/zh)
 
 ---
 # **常用编程软件和工具**
+
 ---
 > [!NOTE]
 >  - [**【置顶笔记下载1】熬10天夜，我肝出了这个PDF版「服务器软件安装手册」**](https://mp.weixin.qq.com/s/YNOZSQ5smo1uGE5ZttUZ_w)
