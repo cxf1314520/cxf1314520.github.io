@@ -108,7 +108,7 @@
 
 ---
 
-> - [**Linux学习**](roadmap/linux/total.md)
+> - [**Linux学习**](roadmap/total.md)
 > - 持续更新中...
 
 ---
