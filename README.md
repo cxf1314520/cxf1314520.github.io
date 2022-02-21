@@ -102,6 +102,8 @@
 > - [**菜鸟工具**](https://c.runoob.com/compile/10)*一款在线、无需配置环境，随时随地写代码的工具*
 > - [**在线Markdown编辑器**](https://www.twle.cn/md/)*在线练习md格式的语法*
 > - [**数据库大全**](http://open.yesapi.cn/list.html)*免费且非常好用的数据库表设计大全*
+> - [**imgcook**](https://imgcook.taobao.org/)*由设计稿一键智能生成代码*
+> - [**Codepen**](https://codepen.io)*前端创作灵感*
 > - 持续更新中...
 
 ---
@@ -129,6 +131,9 @@
 > - [**`FreeCodeCamp`**](https://learn.freecodecamp.one/)*一款免费，学习前端，入门编程的实践教程*
 > - [**`Codewars`**](https://www.codewars.com/)*一款免费在线编程练习网站，实践挑战平台*
 > - [**数据结构和算法动态可视化**](https://visualgo.net/zh)*一款免费学习算法的平台*
+> - [**自学SQL网**](http://xuesql.cn/)*一个适合小学 SQL 的网站，由浅入深的介绍所有 SQL 的知识.*
+> - [**开发者手册**](https://cloud.tencent.com/developer/devdocs)*腾讯云社区和开发者共同维护的一个提供中文编程基础技术教程的知识平台*
+> - [**JavaGuide**](https://javaguide.cn/)*全面Java指南*
 > - 持续更新中...
 
 ---
@@ -201,7 +206,7 @@
 
 # **关于作者**
 
-> - 03年在校大学生一枚，专科学校。
+> - 03年在校大学生，专科学校，业余爱好者一个。
 > - 本站是作者自学编程以来所用资源和分享内容的聚合，旨在为编程自学者提供一系列清晰靠谱的资源/高效的工具/务实的技术文章，方便自己也方便他人
 > - 网站内容会保持持续更新，欢迎收藏品鉴
 
