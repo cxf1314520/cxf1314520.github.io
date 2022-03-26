@@ -27,13 +27,7 @@
 ---
 > - [**JAVA工程师成神之路**](https://hollischuang.github.io/toBeTopJavaer/#/menu)
 > - [**鱼皮编程学习路线**](https://luxian.yupi.icu/#/)
-> - [**`Liy`的个人书签**](https://link.liypoi.top/)
-> - [**编程导航**](https://www.code-nav.cn/)
-> - [**程序员导航**](https://tooool.org/)
-> - [**学吧导航**](https://www.xue8nav.com/)
-> - [**果汁导航**](http://guozhivip.com/)
-> - [**前站**](http://frontendjs.com/)
-> - [**GuideBook**](https://nav.guidebook.top/)
+> - [**Java全栈知识体系**](https://pdai.tech/)
 > - [**峰峰博客**](https://fengfeng.he.cn/)
 
 ---
@@ -42,24 +36,14 @@
 
 ---
 
-> - [**大学资源网**](http://www.dxzy163.com/)
->
->   [^完全免费，功能强大学习网站]: 
->
-> - [**北京大学公开课**](https://open.163.com/special/School/beida.html)*完全免费，北京大学出品*
->
+> - [**大学资源网**](http://www.dxzy163.com/)*完全免费，功能强大学习网站*
+>- [**北京大学公开课**](https://open.163.com/special/School/beida.html)*完全免费，北京大学出品*
 > - [**大学自学网**](http://v.dxsbb.com/)*完全免费，可以下载，满足很多人的需求*
->
-> - [**`中国大学MOOC网`**](https://www.icourse163.org/)*国家精品开放课程*
->
+>- [**`中国大学MOOC网`**](https://www.icourse163.org/)*国家精品开放课程*
 > - [**Oeasy教程**](http://oeasy.org/)*免费综合视频教程网站，质量高*
->
-> - [**国家教育资源公共服务平台**](https://1s1k.eduyun.cn/portal/h)*完全免费的高质量教育平台*
->
+>- [**国家教育资源公共服务平台**](https://1s1k.eduyun.cn/portal/h)*完全免费的高质量教育平台*
 > - [**超星尔雅**](http://erya.mooc.chaoxing.com/)*不需要登陆就可以观看教育视频的网站*
->
-> - [**doyoudo**](https://www.doyoudo.com/free)*一个专注于平面设计，视频剪辑软件的高质量自学网站*
->
+>- [**doyoudo**](https://www.doyoudo.com/free)*一个专注于平面设计，视频剪辑软件的高质量自学网站*
 > - [**中国高校外语慕课平台**](https://moocs.unipus.cn/)*汇聚了国内外各大高校的外语课程*
 
 ---
@@ -87,6 +71,7 @@
 > - [**`acwing`**](https://www.acwing.com/problem/)*`acm`选手入门，大一大二非常推荐，解析详细*
 > - [**赛马网**](https://www.acmcoder.com/index)*提供阿里等大厂拿的笔试真题*
 > - [**CodeWars**](https://www.codewars.com/)*提供许多社区编码挑战，可以使用多种语言*
+> - [**Programming by do**](http://www.programmingbydoing.com/)*有大量的编程作业，适合零基础入门编程*
 
 ---
 
@@ -133,6 +118,22 @@
 
 ---
 
+> ## **导航页**
+>
+> - [**`Liy`的个人书签**](https://link.liypoi.top/)
+> - [**编程导航**](https://www.code-nav.cn/)
+> - [**程序员导航**](https://tooool.org/)
+> - [**学吧导航**](https://www.xue8nav.com/)
+> - [**果汁导航**](http://guozhivip.com/)
+> - [**24K导航**](https://www.24kdh.com/)
+> - [**创造师导航**](http://chuangzaoshi.com/)
+> - [**考拉新媒体导航**](https://www.kaolamedia.com/)
+> - [**前站**](http://frontendjs.com/)
+> - [**GuideBook**](https://nav.guidebook.top/)
+> - [**爱达杂货铺**](https://adzhp.cn/)
+
+---
+
 > ## **文件格式转换**
 >
 > - [**Convertio**](https://convertio.co/zh/)*文件转换器支持任何类型文件的转换，免费，不用下载，100Mb以内*
@@ -146,6 +147,7 @@
 > - [**sobooks**](https://sobooks.cc/)*优质免费电子书下载网站*
 > - [**书栈网**](https://www.bookstack.cn/)*计算机电子书在线阅读和下载网站，提供了各种开发文档和使用手册*
 > - [**熊猫搜书**](https://xmsoushu.com/#/)*非常实用的电子书导航网站*
+> - [**搬书匠**](http://www.banshujiang.cn/)*免费计算机电子书籍下载网站*
 
 ---
 
@@ -155,6 +157,9 @@
 > - [**办公资源**](https://www.bangongziyuan.com/)*模板资源网站，支持修改套用*
 > - [**极简壁纸**](https://bz.zzzmh.cn/)*免费壁纸的搜索平台*
 > - [**unDraw**](https://undraw.co/illustrations)*下载图标的网站，全部免费*
+> - [**片库网**](https://www.btnull.org/)*电影资源下载网站，更新速度快，可以在线观看*
+> - [**PPT超级市场**](https://www.pptsupermarket.com/)*完全免费的PPT下载网站*
+> - [**AirPano**](https://airpano.org.cn/)*提供高清照片*
 
 ---
 
@@ -180,6 +185,7 @@
 > - [**freeCodeCamp**](https://chinese.freecodecamp.org/news/)*免费学习编程的开发者社区*
 > - [**Codecademy**](https://www.codecademy.cn/)*学习代码交互，最受欢迎*
 > - [**菜鸟教程**](https://www.runoob.com/)*所有编程语言文档教程，完全免费*
+> - [**廖雪峰的官方网站**](https://www.liaoxuefeng.com/)*研究会联网产品和技术，提供技术教程*
 
 ---
 
@@ -194,6 +200,7 @@
 > - [**learncpp**](https://www.learncpp.com/)*学习c++编程的教程*
 > - [**Cpulspuls**](http://www.cplusplus.com/)*优秀的c++网站，价值更多体现在参考*
 > - [**TutorialsPoint**](https://www.tutorialspoint.com/cplusplus/index.htm)*优秀的c与c++网站，保存就对了，超级有用*
+> - [**Awesome c++**](https://cpp.libhunt.com/)*c++资源列表，包括许多库*
 > - [**c语言中文网**](http://c.biancheng.net/)*关于c语言的入门算法，教程等*
 > - [**c语言网**](https://www.dotcpp.com/)*学习c语言，涵盖大量题库，并自动打分*
 
@@ -217,6 +224,8 @@
 
 > - [**博客园**](https://www.cnblogs.com/)*一个面向编程开发者的知识分享社区*
 > - [**Stack Overflow**](https://stackoverflow.com/)*开发人员学习社区*
+> - [**Gitbook**](https://gitbook.cn/)*技术社区*
+> - [**思否**](https://segmentfault.com/)*中国开放的技术社区*
 
 ---
 
@@ -265,7 +274,7 @@
 
 > [!TIP]
 >
-> - *但其实也一样，程序员也应该眼里只有，代码之外的东西很精彩。工作是为了更好的代码，多看看的，多利益相关的人，我们的事，真的还是要回归到平凡的生活中。*
+> - *但其实也一样，程序员也应该眼里只有生活，代码之外的东西很精彩。工作是为了更好的生活，多看看和利益相关的人，我们的事，真的还是要回归到平凡的生活中。*
 > - **正如我们所热爱的，就是自己的生活！**
 
 ---
@@ -293,3 +302,4 @@
 > - 最近一次更新时间为2022/2/17
 > - 最近一次更新时间为2022/2/19
 > - 最近一次更新时间为2022/3/16
+
